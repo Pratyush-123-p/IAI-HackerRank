@@ -20,3 +20,14 @@ N-Puzzle- Test Case
 
 N-Puzzle- All Cases
 ![N-Puzzle](https://github.com/Pratyush-123-p/IAI-HackerRank/assets/136417244/a46e6171-2d62-4d02-ab7d-0b1d192d3b92)
+
+
+
+
+Basic Probability- Code
+![Code](https://github.com/Pratyush-123-p/IAI-HackerRank/assets/136417244/dee7f691-b0e7-4d5a-a587-907d4fc449be)
+
+
+Basic Probability- Result
+![Success Screenshot of Probability](https://github.com/Pratyush-123-p/IAI-HackerRank/assets/136417244/9a7c5171-4155-487f-b1d0-45c1abe67846)
+
