@@ -31,3 +31,6 @@ Basic Probability- Code
 Basic Probability- Result
 ![Success Screenshot of Probability](https://github.com/Pratyush-123-p/IAI-HackerRank/assets/136417244/9a7c5171-4155-487f-b1d0-45c1abe67846)
 
+
+Final Submission Screenshot
+![image](https://github.com/Pratyush-123-p/IAI-HackerRank/assets/136417244/6e4715b4-6ca7-42c8-8928-d7daf8af3646)
